@@ -1,0 +1,44 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.header_theme_black {
+  background-color: #073042;
+}
+
+.header_theme_light {
+  background-color: #fff;
+}
+
+.header__logo {
+  flex: 0 0 38px;
+}
+
+.header__img {
+  display: block;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  /* .header__logged-in {
+    padding: 14px;
+  } */
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    padding-right: 14px;
+    padding-left: 14px;
+  }
+}

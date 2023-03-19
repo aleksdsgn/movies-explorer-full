@@ -1,0 +1,78 @@
+@import url('../../vendor/normalize.css');
+@import url('../../vendor/fonts/inter.css');
+
+.app {
+  min-width: 320px;
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+.button {
+  height: 36px;
+  padding: 0 20px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.button-animation:hover {
+  opacity: .8;
+  transition: .2s;
+}
+
+.button-animation:disabled {
+  opacity: 1;
+}
+
+.section {
+  padding: 100px 70px;
+}
+
+.section__header {
+  padding-bottom: 23px;
+  border-bottom: 1px solid #000;
+  margin: 0;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: -.04em;
+  line-height: 26px;
+}
+
+.line {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 0;
+}
+
+.link-animation:hover {
+  opacity: .7;
+  transition: .2s;
+}
+
+@media screen and (max-width: 768px) {
+  .section {
+    padding: 90px 50px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .section {
+    padding: 80px 30px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .section {
+    padding: 75px 22px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .section {
+    padding: 70px 18px;
+  }
+}
