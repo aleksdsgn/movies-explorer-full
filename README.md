@@ -1,5 +1,5 @@
-# movies-explorer-full
-Сервис по поиску документальных фильмов и добавлению из в избранное
+# Movies-Explorer
+Дипломный проект созданный на курсе "Веб-разработчик" в Яндекс.Практикум (2022-2023).
 
 ## Ссылки:
 * Frontend: https://movies.aleksdsgn.nomoredomains.club
