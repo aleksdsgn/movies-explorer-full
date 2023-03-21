@@ -1,4 +1,4 @@
-# Проект Movies-Explorer (frontend + backend)
+# :movie_camera: Проект Movies-Explorer (frontend + backend)
 Дипломный проект созданный на курсе "Веб-разработчик" в Яндекс.Практикум (2022-2023).
 
 
