@@ -70,3 +70,23 @@ Movies-Explorer это Single Page Application  вэб-приложение с �
   - Frontend: [https://github.com/aleksdsgn/movies-explorer-frontend](https://github.com/aleksdsgn/movies-explorer-frontend)
   - Backend: [https://github.com/aleksdsgn/movies-explorer-api](https://github.com/aleksdsgn/movies-explorer-api)
 * Макет по которому была произведена верстка: [https://disk.yandex.ru/d/8e4lKGtgptDQ1w](https://disk.yandex.ru/d/8e4lKGtgptDQ1w)
+
+## Инструкция по развёртыванию проекта:
+
+Требования:
+* Node.js >= 14;
+* npm >= 9.3.1;
+
+`git clone https://github.com/aleksdsgn/movies-explorer-full.git` - клонирование репозитория
+
+* Backend:
+  - `cd .\movies-explorer-full\backend` - вход в каталог
+  - `npm i` - установка зависимостей 
+  - `mongod` - запуск mongodDB
+  - `npm run start` - запуск develop-сборки с hot-reload
+  - `cd ..` - выход из каталога с бекендом
+
+* Frontend:
+  - `cd .\frontend` - вход в каталог
+  - `npm i` - установка зависимостей 
+  - `npm run start` - запуск develop-сборки с hot-reload
