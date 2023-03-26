@@ -12,12 +12,12 @@
   margin: 0;
   font-size: 50px;
   font-weight: 400;
-  line-height: 58px;
+  line-height: 64px;
 }
 
 .promo__text {
   max-width: 310px;
-  padding: 36px 0 146px;
+  padding: 36px 0 0;
   margin: 0;
   font-size: 13px;
   font-weight: 400;
@@ -47,14 +47,13 @@
     max-width: 100%;
     padding-top: 48px;
     font-size: 40px;
-    line-height: 50px;
+    line-height: 54px;
     text-align: center;
   }
 
   .promo__text {
     max-width: 260px;
     padding-top: 22px;
-    padding-bottom: 92px;
     text-align: center;
   }
 }
@@ -75,10 +74,10 @@
     padding-top: 44px;
     font-size: 30px;
     letter-spacing: -.04em;
-    line-height: 38px;
+    line-height: 40px;
   }
 
   .promo__text {
-    padding-bottom: 80px;
+    padding-bottom: 40px;
   }
 }
