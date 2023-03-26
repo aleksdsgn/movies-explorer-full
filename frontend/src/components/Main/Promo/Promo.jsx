@@ -11,9 +11,6 @@ function Promo() {
         <p className="promo__text">
           Листайте ниже, чтобы узнать больше про этот проект и его создателя.
         </p>
-        <button className="button promo__button button-animation" type="button">
-          Узнать больше
-        </button>
       </div>
       <img
         className="promo__img"
