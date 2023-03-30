@@ -84,7 +84,6 @@ Movies-Explorer это Single Page Application  вэб-приложение с �
   - `npm i` - установка зависимостей 
   - `mongod` - запуск mongodDB
   - `npm run start` - запуск develop-сборки с hot-reload
-  - `cd ..` - выход из каталога с бекендом
 
 * Frontend:
   - `cd .\frontend` - вход в каталог
