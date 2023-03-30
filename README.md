@@ -79,6 +79,13 @@ Movies-Explorer это Single Page Application  вэб-приложение с �
 
 `git clone https://github.com/aleksdsgn/movies-explorer-full.git` - клонирование репозитория
 
+для обращения к API по локальной сети в файле
+\movies-explorer-full\frontend\src\utils\constants.js
+расскомментировать 5 строку
+`// export const API_URL = 'http://localhost:3001';`
+и закомментировать 6 строку
+`export const API_URL = 'https://api.movies.aleksdsgn.nomoredomains.club';`
+
 * Backend:
   - `cd .\movies-explorer-full\backend` - вход в каталог
   - `npm i` - установка зависимостей 
