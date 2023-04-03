@@ -70,7 +70,7 @@ Movies-Explorer это Single Page Application  вэб-приложение с �
 * Репозитории до слияния в один общий:
   - Frontend: [https://github.com/aleksdsgn/movies-explorer-frontend](https://github.com/aleksdsgn/movies-explorer-frontend)
   - Backend: [https://github.com/aleksdsgn/movies-explorer-api](https://github.com/aleksdsgn/movies-explorer-api)
-* Макет по которому была произведена верстка: [https://disk.yandex.ru/d/8e4lKGtgptDQ1w](https://disk.yandex.ru/d/8e4lKGtgptDQ1w)
+* Макет по которому была произведена верстка: [https://www.figma.com/file/Pk8FcCeHxuL1skSjTsyhLX/Diploma-(Copy)?node-id=891-3857&t=YsQJtV5eFiwCj81s-0](https://www.figma.com/file/Pk8FcCeHxuL1skSjTsyhLX/Diploma-(Copy)?node-id=891-3857&t=YsQJtV5eFiwCj81s-0)
 
 ## Инструкция по развёртыванию проекта:
 
